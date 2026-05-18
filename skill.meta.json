@@ -1,0 +1,56 @@
+{
+  "name": "竞品分析 Design Skill",
+  "slug": "competitive-analysis-design-skill",
+  "version": "1.0.0",
+  "language": "zh-CN",
+  "type": "design-skill",
+  "category": [
+    "design-research",
+    "competitive-analysis",
+    "strategy",
+    "ux"
+  ],
+  "summary": "用于将竞品调研整理为支持设计决策的结构化分析方法，覆盖问题定义、竞品选择、内容解构、方案归纳、自身位置判断与策略输出。",
+  "audience": [
+    "交互设计师",
+    "体验设计师",
+    "产品经理",
+    "设计研究员",
+    "设计策略人员"
+  ],
+  "inputs": [
+    "竞品调研PPT/PDF/文档",
+    "设计问题描述",
+    "竞品截图与注释",
+    "自身产品方案",
+    "业务背景与限制条件"
+  ],
+  "outputs": [
+    "竞品分析框架",
+    "通用设计准则",
+    "典型方案归纳",
+    "自身位置判断",
+    "策略输出",
+    "评审清单",
+    "Prompt模板"
+  ],
+  "files": {
+    "main": "竞品分析DesignSkill.md",
+    "prompt": "prompt.md",
+    "checklist": "checklist.md",
+    "system_prompt": "SYSTEM_PROMPT.md",
+    "task_router": "TASK_ROUTER.md",
+    "skill_card": "SKILL_CARD.md",
+    "templates": "templates/",
+    "examples": "examples/"
+  },
+  "tags": [
+    "竞品分析",
+    "竞品调研",
+    "设计研究",
+    "设计策略",
+    "体验分析",
+    "方法论"
+  ],
+  "status": "ready-to-use"
+}
